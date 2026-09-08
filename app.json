@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "S-CLEAN",
+    "slug": "s-clean",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#120c1f"
+    },
+    "android": {
+      "package": "com.selystia.sclean",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "backgroundColor": "#120c1f"
+      }
+    }
+  }
+}
